@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Educational Website**
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP**
+- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,Figma,Abode XD**
 
 - 📫 How to reach me **surbhiyadav1511@gmail.com**
 
