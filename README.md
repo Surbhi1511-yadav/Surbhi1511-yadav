@@ -15,8 +15,6 @@
 
 - 🔭 I’m currently working on **Educational Website**
 
-- 🔭 Made a Game using Html,css,js : **Random Number Guess Game**
-
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,Figma,Abode XD**
 
 - 📫 How to reach me **surbhiyadav1511@gmail.com**
