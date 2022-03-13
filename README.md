@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 🔭 I’m currently working on **Educational Website**
+- 🔭 I’m currently working on **Netflix Clone**
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,Figma,Abode XD**
 
